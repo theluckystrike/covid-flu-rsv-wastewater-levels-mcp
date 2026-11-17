@@ -1,0 +1,15 @@
+[{"pathogen_target":"RSV","site_wval_category":"Very High","sites":"27","pop":"4457142"}
+,{"pathogen_target":"Influenza A virus","site_wval_category":"Moderate","sites":"142","pop":"25771823"}
+,{"pathogen_target":"Influenza A virus","site_wval_category":"Very Low","sites":"442","pop":"40357844"}
+,{"pathogen_target":"RSV","site_wval_category":"High","sites":"20","pop":"2253542"}
+,{"pathogen_target":"SARS-CoV-2","site_wval_category":"Very High","sites":"179","pop":"24320010"}
+,{"pathogen_target":"Influenza A virus","site_wval_category":"High","sites":"67","pop":"19043205"}
+,{"pathogen_target":"Influenza A virus","site_wval_category":"Low","sites":"151","pop":"26291037"}
+,{"pathogen_target":"Influenza A virus","site_wval_category":"Very High","sites":"38","pop":"4347452"}
+,{"pathogen_target":"SARS-CoV-2","site_wval_category":"High","sites":"149","pop":"29154275"}
+,{"pathogen_target":"RSV","site_wval_category":"Moderate","sites":"41","pop":"12371726"}
+,{"pathogen_target":"SARS-CoV-2","site_wval_category":"Very Low","sites":"245","pop":"14321119"}
+,{"pathogen_target":"RSV","site_wval_category":"Very Low","sites":"651","pop":"78314888"}
+,{"pathogen_target":"SARS-CoV-2","site_wval_category":"Moderate","sites":"184","pop":"32866851"}
+,{"pathogen_target":"RSV","site_wval_category":"Low","sites":"60","pop":"13437586"}
+,{"pathogen_target":"SARS-CoV-2","site_wval_category":"Low","sites":"178","pop":"20865767"}]

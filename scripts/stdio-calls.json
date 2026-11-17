@@ -1,0 +1,6 @@
+[
+  ["covid_flu_rsv_levels_state", {"state": "Ohio"}],
+  ["covid_flu_rsv_levels_county", {"county": "Cook", "state": "IL", "pathogen": "covid"}],
+  ["covid_flu_rsv_levels_national", {"weeks": 4}],
+  ["covid_flu_rsv_compare_states", {"states": ["CA", "TX", "NY", "FL"]}]
+]

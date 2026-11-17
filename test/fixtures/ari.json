@@ -1,0 +1,228 @@
+[{"week_end":"2026-11-07T00:00:00.000","geography":"Alabama","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"16.8"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Alaska","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.78"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"American Samoa","label":"Data Unavailable","buildnumber":"2026-11-16 21:25:02.89808"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Arizona","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.85"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Arkansas","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.56"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"California","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"12.33"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Colorado","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"12.57"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Connecticut","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"14.1"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Delaware","label":"Data Unavailable","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"12.77"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"District of Columbia","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.25"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Florida","label":"Moderate","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"15.97"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Georgia","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.83"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Guam","label":"Data Unavailable","buildnumber":"2026-11-16 21:25:02.89808"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Hawaii","label":"Moderate","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"17.84"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Idaho","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.97"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Illinois","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"8.86"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Indiana","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.66"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Iowa","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.76"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Kansas","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.31"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Kentucky","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"13.7"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Louisiana","label":"Data Unavailable","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"13.98"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Maine","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"8.16"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Maryland","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.74"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Massachusetts","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.71"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Michigan","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.89"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Minnesota","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.22"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Mississippi","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"14.94"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Missouri","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.15"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Montana","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"8.96"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Nebraska","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"8.22"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Nevada","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"13.26"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"New Hampshire","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"12.82"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"New Jersey","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.84"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"New Mexico","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"12.24"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"New York","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.15"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"North Carolina","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"13.51"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"North Dakota","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.82"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Northern Mariana Islands","label":"Data Unavailable","buildnumber":"2026-11-16 21:25:02.89808"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Ohio","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"12.94"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Oklahoma","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"12.39"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Oregon","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.72"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Pennsylvania","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.1"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Puerto Rico","label":"Data Unavailable","buildnumber":"2026-11-16 21:25:02.89808"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Rhode Island","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.08"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"South Carolina","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"13.55"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"South Dakota","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.0"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Tennessee","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"13.32"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Texas","label":"Moderate","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"16.88"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"United States","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"12.66"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Utah","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.33"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Vermont","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"7.4"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Virginia","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"13.62"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Virgin Islands","label":"Data Unavailable","buildnumber":"2026-11-16 21:25:02.89808"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Washington","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"13.44"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"West Virginia","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"12.76"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Wisconsin","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.88"}
+,{"week_end":"2026-11-07T00:00:00.000","geography":"Wyoming","label":"Moderate","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"13.6"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Alabama","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"18.54"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Alaska","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.86"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"American Samoa","label":"Data Unavailable","buildnumber":"2026-11-16 21:25:02.89808"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Arizona","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.61"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Arkansas","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.16"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"California","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.87"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Colorado","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.8"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Connecticut","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"12.63"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Delaware","label":"Data Unavailable","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.71"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"District of Columbia","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.87"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Florida","label":"Moderate","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"15.7"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Georgia","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.14"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Guam","label":"Data Unavailable","buildnumber":"2026-11-16 21:25:02.89808"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Hawaii","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"16.88"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Idaho","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.39"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Illinois","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.73"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Indiana","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.89"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Iowa","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.33"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Kansas","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.44"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Kentucky","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"13.82"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Louisiana","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"14.25"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Maine","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.19"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Maryland","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.16"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Massachusetts","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.53"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Michigan","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.62"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Minnesota","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.09"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Mississippi","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"13.8"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Missouri","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.79"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Montana","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.48"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Nebraska","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"8.55"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Nevada","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"13.47"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"New Hampshire","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.88"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"New Jersey","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.52"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"New Mexico","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.66"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"New York","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.75"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"North Carolina","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"13.03"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"North Dakota","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.71"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Northern Mariana Islands","label":"Data Unavailable","buildnumber":"2026-11-16 21:25:02.89808"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Ohio","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"12.81"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Oklahoma","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.99"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Oregon","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.85"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Pennsylvania","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.04"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Puerto Rico","label":"Data Unavailable","buildnumber":"2026-11-16 21:25:02.89808"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Rhode Island","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"8.89"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"South Carolina","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"12.28"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"South Dakota","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.47"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Tennessee","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"12.76"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Texas","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"15.51"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"United States","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"12.27"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Utah","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.93"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Vermont","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.26"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Virginia","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"13.11"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Virgin Islands","label":"Data Unavailable","buildnumber":"2026-11-16 21:25:02.89808"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Washington","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"12.97"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"West Virginia","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"14.05"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Wisconsin","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.77"}
+,{"week_end":"2026-10-31T00:00:00.000","geography":"Wyoming","label":"Moderate","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"13.46"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Alabama","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"17.41"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Alaska","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.6"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"American Samoa","label":"Data Unavailable","buildnumber":"2026-11-16 21:25:02.89808"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Arizona","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.4"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Arkansas","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.7"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"California","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.35"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Colorado","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.72"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Connecticut","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"12.21"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Delaware","label":"Data Unavailable","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.01"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"District of Columbia","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.77"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Florida","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"15.22"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Georgia","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.69"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Guam","label":"Data Unavailable","buildnumber":"2026-11-16 21:25:02.89808"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Hawaii","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"16.67"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Idaho","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.58"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Illinois","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.53"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Indiana","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.56"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Iowa","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.18"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Kansas","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.22"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Kentucky","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"12.72"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Louisiana","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"12.75"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Maine","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.26"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Maryland","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.52"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Massachusetts","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.12"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Michigan","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.47"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Minnesota","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.38"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Mississippi","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"12.13"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Missouri","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.55"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Montana","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.12"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Nebraska","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"8.7"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Nevada","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"13.1"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"New Hampshire","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.63"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"New Jersey","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.28"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"New Mexico","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.83"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"New York","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"8.95"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"North Carolina","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"12.81"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"North Dakota","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.41"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Northern Mariana Islands","label":"Data Unavailable","buildnumber":"2026-11-16 21:25:02.89808"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Ohio","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.96"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Oklahoma","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.54"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Oregon","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.47"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Pennsylvania","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"8.36"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Puerto Rico","label":"Data Unavailable","buildnumber":"2026-11-16 21:25:02.89808"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Rhode Island","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"8.28"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"South Carolina","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.91"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"South Dakota","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.95"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Tennessee","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.13"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Texas","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"14.05"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"United States","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.6"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Utah","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.26"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Vermont","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"8.64"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Virginia","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"12.12"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Virgin Islands","label":"Data Unavailable","buildnumber":"2026-11-16 21:25:02.89808"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Washington","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"12.24"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"West Virginia","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"13.39"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Wisconsin","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.96"}
+,{"week_end":"2026-10-24T00:00:00.000","geography":"Wyoming","label":"Moderate","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"13.77"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Alabama","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"16.86"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Alaska","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"12.19"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"American Samoa","label":"Data Unavailable","buildnumber":"2026-11-16 21:25:02.89808"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Arizona","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.22"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Arkansas","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.48"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"California","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.39"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Colorado","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.19"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Connecticut","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"12.49"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Delaware","label":"Data Unavailable","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.21"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"District of Columbia","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.1"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Florida","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"14.79"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Georgia","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.01"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Guam","label":"Data Unavailable","buildnumber":"2026-11-16 21:25:02.89808"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Hawaii","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"16.53"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Idaho","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"8.97"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Illinois","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.5"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Indiana","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.64"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Iowa","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.23"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Kansas","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.57"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Kentucky","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.68"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Louisiana","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"12.16"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Maine","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.57"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Maryland","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.46"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Massachusetts","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.48"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Michigan","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.32"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Minnesota","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.58"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Mississippi","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.73"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Missouri","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.55"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Montana","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.28"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Nebraska","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"8.23"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Nevada","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"12.21"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"New Hampshire","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.17"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"New Jersey","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.98"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"New Mexico","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.96"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"New York","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.08"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"North Carolina","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"12.39"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"North Dakota","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.88"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Northern Mariana Islands","label":"Data Unavailable","buildnumber":"2026-11-16 21:25:02.89808"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Ohio","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.59"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Oklahoma","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.75"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Oregon","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"9.1"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Pennsylvania","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"8.13"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Puerto Rico","label":"Data Unavailable","buildnumber":"2026-11-16 21:25:02.89808"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Rhode Island","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"8.28"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"South Carolina","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.11"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"South Dakota","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.83"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Tennessee","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.32"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Texas","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"13.31"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"United States","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.26"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Utah","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"8.82"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Vermont","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"10.27"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Virginia","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.68"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Virgin Islands","label":"Data Unavailable","buildnumber":"2026-11-16 21:25:02.89808"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Washington","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"12.0"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"West Virginia","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"13.21"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Wisconsin","label":"Very Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.68"}
+,{"week_end":"2026-10-17T00:00:00.000","geography":"Wyoming","label":"Low","buildnumber":"2026-11-16 21:25:02.89808","percent_visits_ari":"11.65"}]
