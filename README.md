@@ -1,5 +1,49 @@
 # covid-flu-rsv-wastewater-levels-mcp
 
+**This week's CDC wastewater levels of COVID-19, flu and RSV by state and county, plus ER respiratory activity and test positivity, as an MCP server.** Free and hosted: no API key, no sign-up.
+
+Hosted MCP URL (Streamable HTTP):
+
+```
+https://covid-flu-rsv-wastewater-levels-mcp.lipmichal.workers.dev/mcp
+```
+
+## Quick start
+
+### Claude
+
+Claude Desktop or claude.ai: Settings > Connectors > Add custom connector, then paste the URL above.
+
+Claude Code:
+
+```
+claude mcp add --transport http covid-flu-rsv-levels https://covid-flu-rsv-wastewater-levels-mcp.lipmichal.workers.dev/mcp
+```
+
+Claude Desktop config file (`claude_desktop_config.json`), through the `mcp-remote` bridge:
+
+```json
+{
+  "mcpServers": {
+    "covid-flu-rsv-levels": { "command": "npx", "args": ["-y", "mcp-remote", "https://covid-flu-rsv-wastewater-levels-mcp.lipmichal.workers.dev/mcp"] }
+  }
+}
+```
+
+### Cursor
+
+Add to `~/.cursor/mcp.json`.
+
+```json
+{
+  "mcpServers": {
+    "covid-flu-rsv-levels": { "url": "https://covid-flu-rsv-wastewater-levels-mcp.lipmichal.workers.dev/mcp" }
+  }
+}
+```
+
+## About
+
 COVID-19, flu and RSV levels for AI assistants, from CDC wastewater surveillance. Ask whether COVID is going around in your state or county this week, whether flu is rising, or which of four states has the most RSV before you travel.
 
 This is a Model Context Protocol (MCP) server. It reads three CDC open datasets on data.cdc.gov (National Wastewater Surveillance System viral activity levels, emergency department respiratory illness activity, and national test positivity) at call time. It needs no API key.
@@ -21,7 +65,7 @@ Every result has structured JSON, a plain-text summary, `as_of`, `source` and `m
 - The level of each of about 900 sewershed sites, by county, for SARS-CoV-2, influenza A and RSV, with the population each site serves.
 - Which states have not reported the newest week yet, so an older reading is never passed off as this week's.
 
-## Install
+## Other clients and local install
 
 ### Hosted (custom connector, ChatGPT developer mode, any remote MCP client)
 
@@ -29,18 +73,6 @@ Paste this URL. No token, no sign-up.
 
 ```
 https://covid-flu-rsv-wastewater-levels-mcp.lipmichal.workers.dev/mcp
-```
-
-### Cursor
-
-Add to `~/.cursor/mcp.json`.
-
-```json
-{
-  "mcpServers": {
-    "covid-flu-rsv-levels": { "url": "https://covid-flu-rsv-wastewater-levels-mcp.lipmichal.workers.dev/mcp" }
-  }
-}
 ```
 
 ### VS Code
